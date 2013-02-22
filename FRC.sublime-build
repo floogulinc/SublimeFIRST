@@ -1,7 +1,7 @@
 {
     "cmd": ["make"],
     "working_dir": "${project_path:${folder}}",
-    "path": "/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:{$plugins:User:SublimeFIRST:ucpp:ucpp}",
+    "path": "/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/share/ucpp/ucpp",
 
     "variants": [
 
